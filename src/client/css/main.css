@@ -3,9 +3,6 @@
     font-size: 14px;
 }
 
-html, body {
-    background-color: #222;
-}
 
 html, body, canvas {
     width: 100%;
